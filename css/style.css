@@ -1,0 +1,9 @@
+img{
+  position:absolute;
+  width:100px;
+  height:100px;
+}
+#score{
+  text-align: center;
+  font-size:30px;
+}
